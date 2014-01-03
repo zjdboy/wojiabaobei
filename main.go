@@ -7,5 +7,4 @@ import (
 
 func main() {
 	beego.Run()
-	beego.AutoRender()
 }
